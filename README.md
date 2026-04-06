@@ -2,9 +2,9 @@
 
 ### 🚀 AI Engineer | Cybersecurity Enthusiast | Full-Stack Architect | Builder of Real Systems
 
-I don’t just write code — I build **systems that think, secure, and scale.**
+I don’t just write code I build **systems that think, secure, and scale.**
 
-I’m a highly driven software engineer with a deep focus on **AI, cybersecurity, backend architecture, and automation**. My work sits at the intersection of **intelligence and control** — building tools that don’t just function, but **analyze, adapt, and dominate real-world problems**.
+I’m a highly driven software engineer with a deep focus on **AI, cybersecurity, backend architecture, and automation**. My work sits at the intersection of **intelligence and control** building tools that don’t just function, but **analyze, adapt, and dominate real-world problems**.
 
 From enterprise web platforms to AI-powered systems and security research labs, I design solutions with one core philosophy:
 
@@ -78,14 +78,14 @@ A **Pine Script–based smart trading system** combining:
 I’m also the founder of a mission-driven platform:
 🔗 [https://oromobiblestudy.com](https://oromobiblestudy.com)
 
-Building technology isn’t just about business for me —
+Building technology isn’t just about business for me 
 it’s about **impact, purpose, and reaching people at scale.**
 
 ---
 
 ## 🧭 Vision
 
-I’m on a path to become a **high-level engineer and system builder** —
+I’m on a path to become a **high-level engineer and system builder** 
 creating powerful tools in **AI, cybersecurity, and automation** that operate at a global level.
 
 Not here to follow trends.
